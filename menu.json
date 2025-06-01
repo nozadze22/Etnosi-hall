@@ -129,15 +129,17 @@
           { "name_en": "Chaqafuli", "name_ka": "ჩაქაფული", "price": 23.0, "valuta_en":"Gel", "valuta_ka":"₾" },
           { "name_en": "Ojaxuri with Pork beef", "name_ka": "ოჯახური ღორის ხორცით", "price": 18.0 ,"valuta_en":"Gel", "valuta_ka":"₾"},
           { "name_en": "Ojaxur with khbo beef", "name_ka": "ოჯახური ხბოს ხორცით", "price": 20.0, "valuta_en":"Gel", "valuta_ka":"₾" },
+          { "name_en": "Pork ribs with Mexican potatoes", "name_ka": "ღორის ნეკნი (მექსიკურ კარტოფილთან ერთდ)", "price": 35.0, "valuta_en":"Gel", "valuta_ka":"₾" },
           { "name_en": " Mushrooms on ketzi", "name_ka": "სოკო კეცზე", "price": 11.0, "valuta_en":"Gel", "valuta_ka":"₾" },
           { "name_en": " Mushrooms on ketzi with Sulguni", "name_ka": "სოკო კეცზე სილგუნით", "price": 13.0, "valuta_en":"Gel", "valuta_ka":"₾" },
           { "name_en": " Mushroom's chashushuli ", "name_ka": "სოკო ჩაშუშული", "price": 12.0, "valuta_en":"Gel", "valuta_ka":"₾" },
           { "name_en": " Xashlama ", "name_ka": "ხაშლამა", "price": 35.0, "valuta_en":"Gel", "valuta_ka":"₾" },
-          { "name_en": "Beans in a pot with Shewamandi ", "name_ka": "ლობიო ქოთნის შეჭამანდით", "price": 12.0, "valuta_en":"Gel", "valuta_ka":"₾" },
+          { "name_en": "Beans in a pot with Shewamandi ", "name_ka": "ლობიო ქოთნის შეჭამანდით", "price": 15.0, "valuta_en":"Gel", "valuta_ka":"₾" },
           { "name_en": " Sulgun on ketzi", "name_ka": "სულგუნი კეცზე", "price": 18.0, "valuta_en":"Gel", "valuta_ka":"₾" },
           { "name_en": "Fries", "name_ka": "კარტოფილი ფრი", "price": 8.0, "valuta_en":"Gel", "valuta_ka":"₾" },
           { "name_en": " Mexican potatoes", "name_ka": "მექსიკური კარტოფილი", "price": 11.0, "valuta_en":"Gel", "valuta_ka":"₾" },
-          { "name_en": "Elarji", "name_ka": "ელარჯი", "price": 17.5, "valuta_en":"Gel", "valuta_ka":"₾" }
+          { "name_en": "Elarji", "name_ka": "ელარჯი", "price": 17.5, "valuta_en":"Gel", "valuta_ka":"₾" },
+          { "name_en": "Sausage board", "name_ka": "სოსისების დაფა", "price": 120.0, "valuta_en":"Gel", "valuta_ka":"₾" }
           
         ]
     },
@@ -151,8 +153,8 @@
         { "name_en": "Chicken barbecue", "name_ka": "ქათმის მწვადი", "price": 13.0 , "valuta_en":"Gel", "valuta_ka":"₾"},
         { "name_en": "Khbos barbecue", "name_ka": "ხბოს მწვადი", "price": 24.0, "valuta_en":"Gel", "valuta_ka":"₾" },
        
-        { "name_en": "Qababi with sulgun", "name_ka": "ქაბაბი სულგუნით", "price": 14.0, "valuta_en":"Gel", "valuta_ka":"₾" },
-        { "name_en": "Qababi", "name_ka": "ქაბაბი", "price": 12.0, "valuta_en":"Gel", "valuta_ka":"₾" },
+        { "name_en": "Qababi with sulgun", "name_ka": "ქაბაბი სულგუნით", "price": 16.0, "valuta_en":"Gel", "valuta_ka":"₾" },
+        { "name_en": "Qababi", "name_ka": "ქაბაბი", "price": 14.0, "valuta_en":"Gel", "valuta_ka":"₾" },
         { "name_en": " Jigari in Badeqoni", "name_ka": "ჯიგარი ბადექონში", "price": 13.0,"valuta_en":"Gel", "valuta_ka":"₾" },
         { "name_en": "Salmon barbecue", "name_ka": "ორაგულის მწვადი", "price": 22.0, "valuta_en":"Gel", "valuta_ka":"₾" },
         { "name_en": "Suki's  barbecue", "name_ka": "სუკის მწვადი", "price": 20.0 ,"valuta_en":"Gel", "valuta_ka":"₾"},
@@ -233,9 +235,10 @@
       { "name_en": "Jupiter", "name_ka": "ჯიფიტერი ", "price": 8.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.05},
       { "name_en": "Martin Bianco", "name_ka": "მარტინი ბიანკო ", "price": 10.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.01},
       { "name_en": "Martin Bianco", "name_ka": "მარტინი ბიანკო ", "price": 48.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.05},
-      { "name_en": "Estrela (Beer)", "name_ka": "ესტრელა (ლუდი)", "price": 8.0, "valuta_en": "Gel", "valuta_ka": "₾"},
-      { "name_en": "Erdinger (Beer)", "name_ka": "ერდინგერი (ლუდი) ", "price": 8.0, "valuta_en": "Gel", "valuta_ka": "₾"}
-
+      { "name_en": "Stela Artua", "name_ka": "სტელა არტუა", "price": 12.0, "valuta_en": "Gel", "valuta_ka": "₾"},
+      { "name_en": "Hoegarden", "name_ka": " ჰოეგარდენი ", "price": 13.0, "valuta_en": "Gel", "valuta_ka": "₾"},
+      {"name_en": "Staropramin", "name_ka": " სტაროპრამინი ", "price": 7.0, "valuta_en": "Gel", "valuta_ka": "₾"},
+      {"name_en": "12 grains", "name_ka": " 12 მარცვალი ", "price": 8.0, "valuta_en": "Gel", "valuta_ka": "₾"}
     ]
   },
   {
