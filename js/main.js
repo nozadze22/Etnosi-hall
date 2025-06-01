@@ -17,6 +17,7 @@ function loadMeals() {
             const menuTitle = document.getElementById('menu-title');
             const sectionButtons = document.getElementById('section-buttons');
             const showFullMenuButton = document.getElementById('show-full-menu');
+            console.log(data)
 
             // Update the header title based on the current language
             menuTitle.innerText = currentLanguage === 'ka' ? data.header.title_en : data.header.title_ka;

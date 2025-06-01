@@ -255,9 +255,10 @@
     { "name_en": "Coca-Cola", "name_ka": "კოკა-კოლა", "price": 3.0, "valuta_en":"Gel", "valuta_ka":"₾" },
     { "name_en": "Natural juice", "name_ka": "ლიმონათი", "price": 10, "valuta_en":"Gel", "valuta_ka":"₾","liters": 1.0 },
     { "name_en": "Family lemonade", "name_ka": "საოჯახო ლიმონათი", "price": 14.0, "valuta_en":"Gel", "valuta_ka":"₾" }
-    
+  
     ]
 }
+
 
 ]
 }
