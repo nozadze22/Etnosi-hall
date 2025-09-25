@@ -21,7 +21,7 @@
                 { "name_en": "Imeruli khachapuri", "name_ka": "ხაჭაპური იმერული", "price": 15.50, "valuta_en":"Gel", "valuta_ka":"₾" },
                 { "name_en": "Megruli khachapuri", "name_ka": "ხაჭაპური მეგრული", "price": 18.50 , "valuta_en":"Gel", "valuta_ka":"₾"},
                 { "name_en": "Royal khachapuri", "name_ka": "ხაჭაპური სამეფო", "price": 22.0 , "valuta_en":"Gel", "valuta_ka":"₾"},
-                { "name_en": "Lobiani", "name_ka": "ლობიანი", "price":  11.5, "valuta_en":"Gel", "valuta_ka":"₾"},
+                { "name_en": "Lobiani", "name_ka": "ლობიანი", "price":  13.0, "valuta_en":"Gel", "valuta_ka":"₾"},
                 { "name_en": "Awaruli khachapuri", "name_ka": "ხაჭაპური (აჭარული) ", "price": 14.0 , "valuta_en":"Gel", "valuta_ka":"₾"},
                 { "name_en": "Chvishtar", "name_ka": "ჭვიშტარი", "price":7.0, "valuta_en":"Gel", "valuta_ka":"₾"},
                 { "name_en": "Mchadi", "name_ka": "მჭადი", "price":3.0, "valuta_en":"Gel", "valuta_ka":"₾"}
@@ -33,9 +33,9 @@
             "img": "https://thumbs.dreamstime.com/b/cheese-plate-served-grapes-jam-crackers-nuts-wooden-background-close-up-58994642.jpg",
             "id":"Dairy products",
             "items": [
-              { "name_en": "Imeruli cheese", "name_ka": "ყველი იმერული", "price": 11.0 , "valuta_en":"Gel", "valuta_ka":"₾"},
+              { "name_en": "Imeruli cheese", "name_ka": "ყველი იმერული", "price": 12.0 , "valuta_en":"Gel", "valuta_ka":"₾"},
               { "name_en": "Factory cheese", "name_ka": "ქარხნის ყველი", "price": 14.0, "valuta_en":"Gel", "valuta_ka":"₾"},
-              { "name_en": "Sulgun", "name_ka": "ყველი სულგუნი", "price": 13.0 , "valuta_en":"Gel", "valuta_ka":"₾"},
+              { "name_en": "Sulgun", "name_ka": "ყველი სულგუნი", "price": 14.0 , "valuta_en":"Gel", "valuta_ka":"₾"},
               { "name_en": "Gebzhalia", "name_ka": "გებჟალია", "price": 22.0, "valuta_en":"Gel", "valuta_ka":"₾" },
               { "name_en": "Gouda (lamb)", "name_ka": "გუდა (ცხვრის)", "price": 15.50 , "valuta_en":"Gel", "valuta_ka":"₾"},
               { "name_en": "Assorted cheese(Imeruli, Sulguni)", "name_ka": "ყველის ასორტი (იმერული, სულგუნი)", "price": 18.50, "valuta_en":"Gel", "valuta_ka":"₾" },
@@ -95,11 +95,11 @@
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Khinkali_georgian.jpg/1200px-Khinkali_georgian.jpg",
         "id":"Fishy",
         "items": [
-          { "name_en": "Khinkali Qalaquri", "name_ka": "ხინკალი ქალაქური", "price": 1.80, "valuta_en":"Gel", "valuta_ka":"₾" },
-          { "name_en": "Khinkali Mtiuluri", "name_ka": "ხინკალი მთიულური", "price": 1.80, "valuta_en":"Gel", "valuta_ka":"₾"},
+          { "name_en": "Khinkali Qalaquri", "name_ka": "ხინკალი ქალაქური", "price": 1.90, "valuta_en":"Gel", "valuta_ka":"₾" },
+          { "name_en": "Khinkali Mtiuluri", "name_ka": "ხინკალი მთიულური", "price": 1.90, "valuta_en":"Gel", "valuta_ka":"₾"},
           { "name_en": " Potato khinkali", "name_ka": "ხინკალი კართოფილის", "price": 1.40, "valuta_en":"Gel", "valuta_ka":"₾" },
-          { "name_en": "khinkali with Cheese", "name_ka": "ხინკალი ყველის", "price": 1.50 , "valuta_en":"Gel", "valuta_ka":"₾"},
-          { "name_en": "Khinkali Chaqafuli ", "name_ka": "ხინკალი ჩაქაფული", "price": 2.50, "valuta_en":"Gel", "valuta_ka":"₾" }
+          { "name_en": "khinkali with Cheese", "name_ka": "ხინკალი ყველის", "price": 1.70 , "valuta_en":"Gel", "valuta_ka":"₾"},
+          { "name_en": "Khinkali Saqonlis ", "name_ka": "ხინკალი საქონლის", "price": 2.20, "valuta_en":"Gel", "valuta_ka":"₾" }
         ]
     },
       
@@ -150,11 +150,11 @@
       "id": "Grill",
       "items": [
         { "name_en": " Pork barbecue ", "name_ka": "ღორის მწვადი ", "price": 18.0, "valuta_en":"Gel", "valuta_ka":"₾" },
-        { "name_en": "Chicken barbecue", "name_ka": "ქათმის მწვადი", "price": 13.0 , "valuta_en":"Gel", "valuta_ka":"₾"},
+        { "name_en": "Chicken barbecue", "name_ka": "ქათმის მწვადი", "price": 14.0 , "valuta_en":"Gel", "valuta_ka":"₾"},
         { "name_en": "Khbos barbecue", "name_ka": "ხბოს მწვადი", "price": 24.0, "valuta_en":"Gel", "valuta_ka":"₾" },
        
-        { "name_en": "Qababi with sulgun", "name_ka": "ქაბაბი სულგუნით", "price": 16.0, "valuta_en":"Gel", "valuta_ka":"₾" },
-        { "name_en": "Qababi", "name_ka": "ქაბაბი", "price": 14.0, "valuta_en":"Gel", "valuta_ka":"₾" },
+        { "name_en": "Qababi with sulgun", "name_ka": "ქაბაბი სულგუნით", "price": 18.0, "valuta_en":"Gel", "valuta_ka":"₾" },
+        { "name_en": "Qababi", "name_ka": "ქაბაბი", "price": 15.0, "valuta_en":"Gel", "valuta_ka":"₾" },
         { "name_en": " Jigari in Badeqoni", "name_ka": "ჯიგარი ბადექონში", "price": 13.0,"valuta_en":"Gel", "valuta_ka":"₾" },
         { "name_en": "Salmon barbecue", "name_ka": "ორაგულის მწვადი", "price": 22.0, "valuta_en":"Gel", "valuta_ka":"₾" },
         { "name_en": "Suki's  barbecue", "name_ka": "სუკის მწვადი", "price": 20.0 ,"valuta_en":"Gel", "valuta_ka":"₾"},
@@ -209,6 +209,7 @@
       { "name_en": "Sarajishvili (VSOP)", "name_ka": "სარაჯიშვილი (VSOP)", "price": 130.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.5},
       { "name_en": "Sarajishvili 5", "name_ka": "სარაჯიშვილი 5", "price": 55.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.5},
       { "name_en": "Sarajishvili 3", "name_ka": "სარაჯიშვილი 3", "price": 45.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.5},
+       { "name_en": "Viborova", "name_ka": "არაყი ვიბოროვა", "price": 30.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.5},
       { "name_en": "Askaneli (XO)", "name_ka": "ასკანელი (XO)", "price": 25.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.05},
       { "name_en": "Askaneli (VSOP)", "name_ka": "ასკანელი (VSOP)", "price": 110.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.5},
       { "name_en": "Askaneli (VS)", "name_ka": "ასკანელი (VS)", "price": 70.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.5},
@@ -251,7 +252,7 @@
     { "name_en": "Nabeglavi", "name_ka": "ნაბეღლავი", "price": 3.50, "valuta_en":"Gel", "valuta_ka":"₾" },
     { "name_en": "Borjomi", "name_ka": "ბორჯომი", "price": 3.50, "valuta_en":"Gel", "valuta_ka":"₾" },
     { "name_en": "Water in a glass bottle", "name_ka": "წყალი მინის ბოთლით", "price": 3.5, "valuta_en":"Gel", "valuta_ka":"₾" },
-    { "name_en": "Water", "name_ka": "წყალი", "price": 2.5, "valuta_en":"Gel", "valuta_ka":"₾" },
+    { "name_en": "Water Bakuriani", "name_ka": "წყალი ბაკურიანი", "price": 2.5, "valuta_en":"Gel", "valuta_ka":"₾" },
     { "name_en": "Coca-Cola", "name_ka": "კოკა-კოლა", "price": 3.0, "valuta_en":"Gel", "valuta_ka":"₾" },
     { "name_en": "Natural juice", "name_ka": "ლიმონათი", "price": 10, "valuta_en":"Gel", "valuta_ka":"₾","liters": 1.0 },
     { "name_en": "Family lemonade", "name_ka": "საოჯახო ლიმონათი", "price": 14.0, "valuta_en":"Gel", "valuta_ka":"₾" }
