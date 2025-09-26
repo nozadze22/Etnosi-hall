@@ -209,7 +209,7 @@
       { "name_en": "Sarajishvili (VSOP)", "name_ka": "სარაჯიშვილი (VSOP)", "price": 130.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.5},
       { "name_en": "Sarajishvili 5", "name_ka": "სარაჯიშვილი 5", "price": 55.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.5},
       { "name_en": "Sarajishvili 3", "name_ka": "სარაჯიშვილი 3", "price": 45.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.5},
-       { "name_en": "Viborova", "name_ka": "არაყი ვიბოროვა", "price": 30.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.5},
+      { "name_en": "Viborova", "name_ka": "არაყი ვიბოროვა", "price": 30.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.5},
       { "name_en": "Askaneli (XO)", "name_ka": "ასკანელი (XO)", "price": 25.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.05},
       { "name_en": "Askaneli (VSOP)", "name_ka": "ასკანელი (VSOP)", "price": 110.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.5},
       { "name_en": "Askaneli (VS)", "name_ka": "ასკანელი (VS)", "price": 70.0, "valuta_en": "Gel", "valuta_ka": "₾", "liters": 0.5},
